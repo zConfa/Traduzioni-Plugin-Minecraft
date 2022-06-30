@@ -1,0 +1,440 @@
+# Questo file contiene messaggi in inglese che provengono dal plugin.
+# Alcuni significati terminano con punti o altri caratteri. Includili nella tua traduzione.
+# NOTA: leggere con attenzione significati/parole in quanto potrebbero essere collegati.
+
+# Significati completi
+ONLY_IN_GAME_PLAYERS_CAN_USE_THIS_COMMAND="Solo i giocatori in-game possono usare questo comando!"
+YOU_MUST_BE_THE_FACTIONS_LEADER_TO_DO_THIS="Devi essere il leader della fazione per farlo!"
+YOU_MUST_BE_IN_FACTION_IN_ORDER_TO_USE_THIS_COMMAND="Devi essere in fazione per usare questo comando!"
+YOU_MUST_BE_THE_FACTIONS_LEADER_OR_OFFICER_TO_DO_THIS="Devi essere il leader o l'ufficiale della fazione per farlo!"
+YOU_ARE_IN_WAR_WITH_THIS_FACTION="Sei in guerra con questa fazione!"
+SEND_THIS_FACTION_A_PEACE_REQUEST_FIRST_BEFORE_INVITING_THEM_TO_ALLIES="Invia a queste fazioni una richiesta di pace prima di invitarle agli alleati."
+YOU_ARE_IN_ALLIANCE_WITH_THIS_FACTION="Sei alleato con questa fazione."
+THIS_FACTION_IS_ALREADY_YOUR_ENEMY="Questa fazione è già tua nemica!"
+
+THERE_IS_NO_FACTION_CALLED_FACTION_NAME="Non esiste una fazione chiamata %FACTION_NAME%."
+YOU_HAVE_ACCEPTED_AN_INVITATION_FROM_FACTION="Hai accettato un invito da %FACTION_NAME%."
+YOUR_FACTION_IS_NOW_ENEMIES_WITH_FACTION="La tua fazione ora è nemica con %FACTION_NAME%."
+FACTION_HAS_HAS_DECLARED_YOU_A_WAR="%FACTION_NAME% ti ha dichiarato guerra!"
+
+############################################################### ###
+##################### Invio di inviti ####################
+
+CLICK_HERE="Fai clic qui"
+# Clicca qui "per accettare l'invito o digita" /f alleato <nome fazione>
+TO_ACCEPT_INVITATION_OR_TYPE="per accettare l'invito o digitare"
+
+############################################################### ##
+
+#Utilizzo dei comandi
+WRONG_COMMAND_ARGUMENTS="Argomenti comando errati!"
+USAGE="Utilizzo:"
+
+############################################################### ###
+####################### Modalità amministratore #########################
+
+ADMIN_MODE_HAS_BEEN_TURNED_ON="La modalità amministratore è stata attivata."
+ADMIN_MODE_HAS_BEEN_TURNED_OFF="La modalità amministratore è stata disattivata."
+
+############################################################### ###
+################### Modalità di debug #####################
+
+DEBUG_MODE_HAS_BEEN_TURNED_ON="La modalità di debug è stata attivata."
+DEBUG_MODE_HAS_BEEN_TURNED_OFF="La modalità di debug è stata disattivata."
+
+############################################################### ###
+######################## Attaccare #########################
+
+YOU_CAN_ATTACK_SOMEONES_TERRITORY_ONLY_AT_NIGHT="Puoi attaccare il territorio di qualcuno solo di notte!"
+YOU_CANT_ATTACK_THIS_FACTION="Non puoi attaccare questa fazione!"
+ATTACK_ON_THE_CHUNK_HAS_BEEN_STARTED="L'attacco al claim è stato avviato!"
+STAY_IN_THE_CHUNK_FOR_NUMBER_SECONDS_TO_DESTROY_IT="Rimani nel blocco per %NUMBER% secondi per distruggerlo!"
+THEIR_POWER_IS_TO_HIGH="La loro power è troppo alta!"
+YOU_ARE_IN_THE_SAME_ALLIANCE="Sei nella stessa alleanza!"
+YOU_CANT_ATTACK_YOURSELF="Non puoi attaccarti! :)"
+THIS_PLACE_DOES_NOT_BELONG_TO_ANYONE="Questo claim non appartiene a nessuno!"
+CLAIM_DESTROYED="claim distrutto!"
+YOUR_FACTION_IS_UNDER_ATTACK="La tua fazione è sotto attacco!"
+ONE_OF_YOUR_CLAIMS_HAS_BEEN_DESTROYED_BY_AN_ENEMY="Uno dei tuoi claims è stato distrutto da un nemico!"
+CLAIM_AT_COORDS_IS_BEING_ATTACKED_BY_ENEMY="La tua pretesa a %COORDS% è stata attaccata da un nemico!"
+CLAIM_AT_COORDS_HAS_BEEN_DESTROYED_BY_ENEMY="La tua rivendicazione a %COORDS% è stata distrutta da un nemico!"
+ATTACK_ON_CLAIM_HAS_BEEN_CANCELLED="L'attacco al claim è stato annullato!"
+CLAIM_WILL_BE_DESTROYED_IN_SECONDS="Il claim verrà distrutto tra [%NUMBER%] secondi"
+
+############################################################### ###
+###################### Chiacchierata ########################
+
+CHANGED_CHAT_TO="Chat modificata in: "
+GLOBAL_CHAT="Globale"
+ALLIANCE_CHAT="Alleanza"
+FACTION_CHAT="Fazione"
+
+# Questi vengono visualizzati prima del nickname del giocatore nella chat. I codici colore sono supportati.
+ALLIANCE_CHAT_PREFIX="[&9Alliance&r]"
+FACTION_CHAT_PREFIX="[&aFaction&r]"
+
+LEADER_PREFIX="[&6Direttore]"
+OFFICER_PREFIX="[&6ufficiale]"
+MEMBER_PREFIX="[&6Membro]"
+RECRUIT_PREFIX="[&6Recluta]"
+
+############################################################### ###
+##################### Petto ########################
+FACTION_CHESTS_ARE_DISABLED="I chest delle fazioni sono disabilitati su questo server!"
+YOU_OPENED_FACTION_CHEST="Hai aperto lo chest della fazione %FACTION_NAME%."
+PLAYERS_WITH_YOUR_RANK_CANT_OPEN_FACTION_CHEST="I giocatori con il tuo grado non possono aprire il chest della fazione."
+
+############################################################### ###
+####################### Rivendicazione ##########################
+LAND_HAS_BEEN_SUCCESSFULLY_CLAIMED="Il claim %CLAIM% è stata rivendicata con successo!"
+CLAIMS_NEED_TO_BE_CONNECTED="I claims devono essere collegati!"
+STAY_IN_THE_CHUNK_FOR_NUMBER_SECONDS_TO_CLAIM_IT="Rimani nel blocco per %NUMBER% secondi per reclamarlo!"
+YOUR_FACTION_IS_UNDER_ATTACK="La tua fazione è sotto attacco!"
+YOU_NEED_TO_WAIT="Devi aspettare"
+YOU_NEED_TO_WAIT_NUMBER_SECONDS_TO_BE_ABLE_TO_CLAIM_AGAIN="Devi attendere %NUMBER% secondi per poter rivendicare di nuovo!"
+YOUR_FACTION_DOES_NOT_HAVE_POWER_TO_CLAIM_MORE_LANDS="La tua fazione non ha il potere di rivendicare più terre!"
+THIS_PLACE_IS_ALREADY_CLAIMED="Questo claim è già stato rivendicato!"
+YOU_DONT_HAVE_ENOUGH_RESOURCES_TO_CLAIM_A_TERRITORY="Non hai abbastanza risorse per rivendicare un territorio!"
+YOU_MOVED_FROM_THE_CHUNK="Ti sei spostato dal claim!"
+YOU_CANNOT_CLAIM_TERRITORIES_IN_THIS_WORLD="Non puoi rivendicare territori in questo mondo!"
+THIS_PLACE_DOES_NOT_BELONG_TO_YOUR_FACTION="Questo claim non appartiene alla tua fazione!"
+CANT_RECTANGLE_CLAIM_IF_DELAYED_CLAIMING_IS_ON="Non posso rivendicare il rettangolo se la rivendicazione ritardata è attiva."
+
+AUTO_CLAIM_HAS_BEEN_TURNED_ON="La rivendicazione automatica è stata attivata!"
+AUTO_CLAIM_HAS_BEEN_TURNED_OFF="La rivendicazione automatica è stata disattivata!"
+
+LAND="Terra"
+CLAIMED="rivendicato"
+HAS_BEEN_SUCCESSFULLY="è andato con successo"
+SECONDS="secondi"
+
+############################################################### ###
+######################### Coordinate ##########################
+TEAM_COORDS="Coordinate della squadra"
+FACTIONS_HOME="Casa della fazione"
+LEADER="Leader"
+UFFICIALE="Ufficiale"
+MEMBER="Membro"
+RECRUIT="Recluta"
+
+############################################################### ###
+####################### Creazione ###########################
+FACTION_NAME_AND_TAG_MUST_BE_ALPHANUMERIC="Il nome della fazione e il tag devono essere alfanumerici!"
+YOU_CANT_USE_THIS_FACTION_NAME="Non puoi usare questo nome di fazione!"
+PROVIDED_FACTION_TAG_IS_ALREADY_TAKEN="Il tag di fazione fornito è già stato preso!"
+PROVIDED_FACTION_TAG_IS_TOO_LONG="Il tag di fazione fornito è troppo lungo!"
+PROVIDED_FACTION_TAG_IS_TOO_SHORT="Il tag di fazione fornito è troppo corto!"
+PROVIDED_FACTION_NAME_IS_TOO_LONG="Il nome della fazione fornito è troppo lungo!"
+PROVIDED_FACTION_NAME_IS_TOO_SHORT="Il nome della fazione fornito è troppo breve!"
+MAX="Massimo"
+MIN="Minimo"
+CHARS="caratteri"
+
+FACTION_HAS_BEEN_CREATED="%FACTION_NAME% è stato creato!"
+FACTION_WITH_THE_SAME_NAME_ALREADY_EXISTS="La fazione con lo stesso nome esiste già!"
+YOU_ARE_ALREADY_IN_A_FACTION="Sei già in una fazione."
+YOU_MUST_LEAVE_OR_DISBAND_YOUR_FACTION_FIRST="Devi prima lasciare o sciogliere la tua fazione."
+YOU_DONT_HAVE_ENOUGH_RESOURCES_TO_CREATE_A_FACTION="Non hai abbastanza risorse per creare una fazione!"
+FACTION_NAME_MUST_BE_ALPHANUMERIC="Il nome della fazione deve essere alfanumerico!"
+FACTION_TAG_MUST_BE_ALPHANUMERIC="Il tag di fazione deve essere alfanumerico!"
+
+############################################################### ###
+########### Sciogliere (e Rigenerare) ############
+FACTION_HAS_BEEN_DISBANDED="La fazione è stata sciolta!"
+SOMETHING_WENT_WRONG="Qualcosa è andato storto..."
+FACTION_HAS_BEEN_REMOVED_DUE_TO_INACTIVITY_TIME="%FACTION_NAME% è stato rimosso a causa del suo lungo tempo di inattività."
+REGEN_WARNING_CONFIRMATION_REQUIRED="Attenzione! Questo comando si scioglierà e quindi rigenererà tutte le terre della fazione! Procedi con cautela. Digita di nuovo questo comando per confermare."
+FACTION_HAS_BEEN_REGENERATED="La fazione è stata rigenerata!"
+THIS_FACTION_CANNOT_BE_DISBANDED="Questa fazione non può essere sciolta!"
+
+############################################################### ###
+######################### Permessi ###########################
+CHI="CHI"
+USE="USE"
+PLACE="LUOGO"
+DESTROY="DESTROY"
+SET_TO="Imposta su"
+CLICK_ON_THE_PERMISSION_YOU_WANT_TO_CHANGE="Fai clic sull'autorizzazione che desideri modificare."
+PLAYERS_WITH_YOUR_RANK_CANT_CLAIM_LANDS="I giocatori con il tuo grado non possono rivendicare terre."
+PLAYERS_WITH_YOUR_RANK_CANT_ATTACK_LANDS="I giocatori con il tuo grado non possono attaccare le terre."
+PLAYERS_WITH_YOUR_RANK_CANT_UNCLAIM_LANDS="I giocatori con il tuo grado non possono revocare le terre."
+PLAYERS_WITH_YOUR_RANK_CANT_INVITE_PLAYERS_TO_FACTION="I giocatori con il tuo grado non possono invitare altri giocatori alla fazione."
+HAS_NOT_PERMISSIONS_FOR="Non ha i permessi per"
+HAS_PERMISSIONS_FOR="Ha i permessi per"
+
+############################################################### ###
+###################### Aiuto ########################
+EAGLEFACTIONS_COMMAND_LIST="Elenco comandi EagleFactions"
+
+############################################################### ###
+###################### Casa ########################
+HOME_COMMAND_IS_CURRENTLY_ON_COOLDOWN="Il comando Home è attualmente in cooldown!"
+TO_BE_ABLE_TO_USE_IT_AGAIN="per poterlo riutilizzare!"
+YOU_CANT_TELEPORT_TO_FACTIONS_HOME_BECAUSE_YOU_DIED_RECENTLY_IN_YOUR_FACTIONS_LAND="Non puoi teletrasportarti a casa della fazione perché sei morto di recente nelIl claim della tua fazione!"
+TELEPORTING_TO_FACTION_HOME="Teletrasporto a casa della fazione in [%NUMBER%] secondi."
+STAND_STILL_FOR="Resta fermo per"
+FACTIONS_HOME_IS_NOT_SET_IN_THIS_WORLD="La casa della fazione non è in questo mondo."
+FACTIONS_HOME_IS_NOT_SET="La casa della fazione non è impostata!"
+YOU_WERE_TELEPORTED_TO_FACTIONS_HOME="Sei stato teletrasportato a casa della fazione!"
+YOU_MOVED="Ti sei trasferito!"
+TELEPORTING_HAS_BEEN_CANCELLED="Il teletrasporto è stato annullato!"
+COULD_NOT_SPAWN_AT_FACTIONS_HOME_HOME_MAY_NOT_BE_SET="Impossibile spawnare a casa della fazione! La casa potrebbe non essere impostata!"
+MISSING_OR_CORRUPTED_HOME="La casa in cui stai cercando di teletrasportarti è in un mondo scomparso o corrotto."
+THIS_FACTION_DOES_NOT_HAVE_ITS_HOME_SET="Questa fazione non ha il suo set base!"
+YOU_CANT_TELEPORT_TO_THIS_FACTION_HOME_ALLIANCE_NEEDED="Non puoi teletrasportarti a casa di questa fazione! Devi prima essere il suo alleato!"
+FACTION_HOME_HAS_BEEN_SET="La casa della fazione è stata impostata!"
+THIS_PLACE_IS_NOT_CLAIMED_YOU_CAN_SET_HOME_ONLY_IN_CLAIMED_CLAND="Questo claim non è stato rivendicato! Puoi impostare casa solo nel claim rivendicato!"
+FACTION_HOME_MUST_BE_PLACED_INSIDE_FACTION_TERRITORY="La casa della fazione deve essere piazzata all'interno del territorio della fazione!"
+
+############################################################### ###
+###################### Informazioni ########################
+YOU_DONT_HAVE_PERMISSIONS_FOR_VEWING_INFO_ABOUT_YOUR_FACTION="Non hai accesso per visualizzare le informazioni sulla tua fazione!"
+YOU_DONT_HAVE_PERMISSIONS_FOR_VEWING_INFO_ABOUT_OTHER_FACTIONS="Non hai accesso per visualizzare informazioni su altre fazioni!"
+YOU_DONT_HAVE_PERMISSIONS_TO_USE_THIS_COMMAND="Non hai i permessi per usare questo comando!"
+NAME="Nome"
+TAG="Etichetta"
+DESCRIPTION="Descrizione"
+PUBLIC="Pubblico"
+# Messaggio del giorno
+MOTD="Motd"
+UFFICIALI="Ufficiali"
+TRUCES="Tregua"
+ALLIANCES="Alleanza"
+ENEMIES="Nemico"
+MEMBERS="Membri"
+RECRUITS="Reclute"
+POWER="Power"
+CLAIMS="Claims"
+FACTION_INFO="Informazioni sulla fazione"
+LAST_ONLINE="Ultimo in linea"
+NOW="Ora"
+
+############################################################### ###
+######################### Invita ##########################
+PLAYER_IS_ALREADY_IN_A_FACTION="Il giocatore è già in una fazione!"
+YOU_CANT_INVITE_MORE_PLAYERS_TO_YOUR_FACTION="Non puoi invitare più giocatori nella tua fazione."
+FACTIONS_PLAYER_LIMIT_HAS_BEEN_REACHED="Il limite di giocatori della fazione è stato raggiunto!"
+FACTION_HAS_SENT_YOU_AN_INVITE="La fazione %FACTION_NAME% ti ha inviato un invito!"
+YOU_HAVE_TWO_MINUTES_TO_ACCEPT_IT="Hai 2 minuti per accettarlo!"
+YOU_INVITED="Hai invitato"
+TO_YOUR_FACTION="alla tua fazione."
+
+############################################################### ###
+###################### Giuntura ########################
+SUCCESSFULLY_JOINED_FACTION="Fazione unita con successo %FACTION_NAME%!"
+YOU_CANT_JOIN_THIS_FACTION_BECAUSE_IT_REACHED_ITS_PLAYER_LIMIT="Non puoi unirti a questa fazione perché ha raggiunto il limite di giocatori!"
+YOU_HAVENT_BEEN_INVITED_TO_THIS_FACTION="Non sei stato invitato in questa fazione."
+
+############################################################### ###
+###################### Calcio ########################
+YOU_KICKED_PLAYER_FROM_THE_FACTION="Hai espulso %PLAYER% dalla fazione."
+YOU_WERE_KICKED_FROM_THE_FACTION="Sei stato espulso dalla fazione."
+YOU_CANT_KICK_THIS_PLAYER="Non puoi calciare questo giocatore!"
+THIS_PLAYER_IS_NOT_IN_YOUR_FACTION="Questo giocatore non è nella tua fazione!"
+
+############################################################### ###
+##################### Lasciare ########################
+YOU_LEFT_FACTION="Hai lasciato la fazione %FACTION_NAME%."
+YOU_CANT_LEAVE_YOUR_FACTION_BECAUSE_YOU_ARE_ITS_LEADER="Non puoi lasciare la tua fazione perché tu ne sei il leader!"
+DISBAND_YOUR_FACTION_OR_SET_SOMEONE_AS_LEADER="Sciogli la tua fazione o imposta qualcuno come leader."
+
+############################################################### ###
+##################### Elenco #########################
+FACTIONS_LIST="Lista fazioni"
+
+############################################################### ###
+###################### Carta geografica #########################
+FACTIONS_MAP_HEADER="====Mappa delle fazioni===="
+FACTIONS_MAP_FOOTER="====================="
+YOUR_FACTION="La tua fazione"
+FACTIONS="Fazioni"
+CURRENTLY_STANDING_AT_CLAIM_WHICH_IS_CLAIMED_BY="Attualmente in piedi a %CLAIM% che è rivendicato da %FACTION_NAME%."
+LAND_HAS_BEEN_SUCCESSFULLY_UNCLAIMED="Il claim è stata eliminato con successo."
+YOU_CANT_VIEW_MAP_IN_THIS_WORLD="Non puoi visualizzare la mappa in questo mondo!"
+AUTO_MAP_HAS_BEEN_TURNED_ON="La mappa automatica è stata attivata!"
+AUTO_MAP_HAS_BEEN_TURNED_OFF="La mappa automatica è stata disattivata!"
+
+############################################################### ###
+#################### Massima power ######################
+YOU_NEED_TO_TOGGLE_FACTION_ADMIN_MODE_TO_DO_THIS="Devi attivare/disattivare la modalità amministratore di fazione per farlo!"
+PLAYERS_MAXPOWER_HAS_BEEN_CHANGED="La power massima del giocatore è stata modificata!"
+MAXPOWER_FOR_ALL_PLAYERS_HAS_BEEN_CHANGED="La power massima per tutti i giocatori è stata modificata!"
+
+############################################################### ###
+##################### Membro #######################
+YOU_PROMOTED_PLAYER_TO_MEMBER_TYPE="Hai promosso %PLAYER% a %MEMBER_TYPE%."
+YOU_DEMOTED_PLAYER_TO_MEMBER_TYPE="Hai retrocesso %PLAYER% a %MEMBER_TYPE%."
+YOU_CANT_PROMOTE_THIS_PLAYER_MORE="Non puoi promuovere di più questo giocatore!"
+YOU_CANT_DEMOTE_THIS_PLAYER_MORE="Non puoi retrocedere di più questo giocatore!"
+
+############################################################### ###
+##################### Giocatore #######################
+PLAYER_INFO="Informazioni giocatore"
+LAST_PLAYED="Ultima giocata"
+FACTION="Fazione"
+PLAYER_STATUS="Stato"
+
+############################################################### ###
+######################### Ricarica ###########################
+CONFIG_HAS_BEEN_RELOADED="La configurazione è stata ricaricata!"
+
+############################################################### ###
+######################### Rinomina ##########################
+SUCCESSFULLY_RENAMED_FACTION_TO_FACTION_NAME="Fazione rinominata con successo in %FACTION_NAME%."
+
+############################################################### ###
+######################### Tag ##############################
+TAG_COLOR_HAS_BEEN_CHANGED="Il colore del tag è stato cambiato!"
+TAG_COLORING_IS_TURNED_OFF_ON_THIS_SERVER="La colorazione dei tag è disattivata su questo server."
+FACTION_TAG_HAS_BEEN_SUCCESSFULLY_CHANGED_TO="Il tag di fazione è stato modificato con successo in %FACTION_TAG%!"
+
+############################################################### ###
+######################### Tregua ############################
+FACTION_HAS_BEEN_ADDED_TO_THE_TRUCE="La fazione è stata aggiunta alla tregua!"
+YOU_DISBANDED_YOUR_TRUCE_WITH_FACTION="Hai sciolto la tua tregua con %FACTION_NAME%."
+DISBAND_TRUCE_FIRST_TO_INVITE_FACTION_TO_THE_ALLIANCE="Sciogli prima la tregua per invitare questa fazione all'alleanza!"
+YOU_HAVE_ALREADY_INVITED_THIS_FACTION_TO_THE_TRUCE="Hai già invitato questa fazione alla tregua. Attendi la loro risposta!"
+YOU_CANNOT_INVITE_YOURSELF_TO_THE_TRUCE="Dici sul serio? Non puoi invitarti alla tregua!"
+YOU_HAVE_INVITED_FACTION_TO_THE_TRUCE="Hai invitato la fazione %FACTION_NAME% alla tregua."
+FACTION_ACCEPTED_YOUR_INVITE_TO_THE_TRUCE="%FACTION_NAME% ha accettato il tuo invito alla tregua."
+FACTION_HAS_SENT_YOU_AN_INVITE_TO_THE_TRUCE="%FACTION_NAME% ti ha inviato un invito alla tregua."
+DISBAND_TRUCE_FIRST_TO_DECLARE_A_WAR="Sciogli la tregua prima di dichiarare guerra!"
+THIS_FACTION_IS_IN_TRUCE_WITH_YOU="Questa fazione è in tregua con te!"
+
+############################################################### ###
+########################### Alleato ############################
+FACTION_HAS_BEEN_ADDED_TO_THE_ALLIANCE="La fazione è stata aggiunta all'alleanza!"
+YOU_DISBANDED_YOUR_ALLIANCE_WITH_FACTION="Hai sciolto la tua alleanza con %FACTION_NAME%."
+YOUR_FACTION_IS_NOT_IN_THE_ALLIANCE_WITH_FACTION="La tua fazione non è nell'alleanza con %FACTION_NAME%."
+YOU_HAVE_ALREADY_INVITED_THIS_FACTION_TO_THE_ALLIANCE="Hai già invitato questa fazione all'alleanza. Attendi la loro risposta!"
+YOU_CANNOT_INVITE_YOURSELF_TO_THE_ALLIANCE="Dici sul serio? Non puoi invitarti all'alleanza!"
+YOU_HAVE_INVITED_FACTION_TO_THE_ALLIANCE="Hai invitato la fazione %FACTION_NAME% all'alleanza."
+FACTION_ACCEPTED_YOUR_INVITE_TO_THE_ALLIANCE="%FACTION_NAME% ha accettato il tuo invito all'alleanza."
+FACTION_HAS_SENT_YOU_AN_INVITE_TO_THE_ALLIANCE="%FACTION_NAME% ti ha inviato un invito all'alleanza."
+DISBAND_ALLIANCE_FIRST_TO_DECLARE_A_WAR="Sciogli prima l'alleanza per dichiarare guerra!"
+DISBAND_ALLIANCE_FIRST_TO_INVITE_FACTION_TO_THE_TRUCE="Sciogli prima l'alleanza per invitare questa fazione alla tregua!"
+THIS_FACTION_IS_YOUR_ALLY="Questa fazione è tua alleata!"
+
+############################################################### ###
+###################### Nemico #######################
+FACTION_HAS_BEEN_ADDED_TO_THE_ENEMIES="La fazione è stata aggiunta ai nemici!"
+YOU_REMOVED_WAR_STATE_WITH_FACTION="Hai rimosso lo stato di guerra con %FACTION_NAME%."
+YOU_HAVE_ACCEPTED_ARMISTICE_REQUEST_FROM_FACTION="Hai accettato la richiesta di armistizio da %FACTION_NAME%."
+# Clicca qui "per accettarlo o digita" /f nemico <nome fazione>
+TO_ACCEPT_IT_OR_TYPE="per accettarlo o digitare"
+YOU_REQUESTED_ARMISTICE_WITH_FACTION="Hai richiesto l'armistizio con la fazione %FACTION_NAME%."
+FACTION_ACCEPTED_YOUR_ARMISTICE_REQUEST="La fazione %FACTION_NAME% ha accettato la tua richiesta di armistizio!"
+YOU_HAVE_ALREADY_SENT_ARMISTICE_REQUEST="Hai già inviato una richiesta di armistizio a questa fazione. Attendi la loro risposta!"
+FACTION_HAS_SENT_YOU_AN_ARMISTICE_REQUEST="La fazione %FACTION_NAME% ti ha inviato una richiesta di armistizio."
+YOU_CANNOT_BE_IN_WAR_WITH_YOURSELF="Dici sul serio? Non puoi essere in guerra con te stesso!"
+
+############################################################### ###
+####################### SetLeader ########################
+YOU_SET_PLAYER_AS_YOUR_NEW_LEADER="Hai impostato %PLAYER% come tuo nuovo leader."
+YOU_ALREADY_ARE_THE_LEADER_OF_THIS_FACTION="Sei già il leader di questa fazione!"
+
+############################################################### ###
+######################### Impostapower #########################
+PLAYERS_POWER_HAS_BEEN_CHANGED="Il potere del giocatore è stato cambiato!"
+
+############################################################### ###
+######################### Annulla il claim #########################
+SUCCESSFULLY_REMOVED_ALL_CLAIMS="Rimosse con successo tutte le rivendicazioni!"
+
+############################################################### ###
+####################### Descrizione ##########################
+DESCRIPTION_IS_TOO_LONG="La descrizione è troppo lunga"
+FACTION_DESCRIPTION_HAS_BEEN_UPDATED="La descrizione della fazione è stata aggiornata!"
+
+############################################################### ###
+########################## Motd ############################
+FACTION_MESSAGE_OF_THE_DAY="%FACTION_NAME% messaggio del giorno: "
+FACTION_MESSAGE_OF_THE_DAY_HAS_BEEN_UPDATED="Il messaggio della fazione del giorno è stato aggiornato!"
+
+############################################################### ###
+###################### Mondo #######################
+THIS_LAND_BELONGS_TO_SOMEONE_ELSE="Questa terra appartiene a qualcun altro!"
+YOU_DONT_HAVE_ACCESS_TO_DO_THIS="Non hai accesso per farlo!"
+YOU_CANT_ENTER_THIS_FACTION="Non puoi entrare in questa fazione!"
+NONE_OF_THIS_FACTIONS_PLAYERS_ARE_ONLINE="Nessuno dei suoi membri è online!"
+YOU_CANT_ENTER_SAFEZONE_WHEN_YOU_ARE_IN_WARZONE="Non puoi entrare in SafeZone quando sei in WarZone!"
+YOU_HAVE_ENTERED_FACTION="Sei entrato nella fazione %FACTION_NAME%."
+YOU_CANT_USE_COMMAND_WHILE_BEING_IN_A_FIGHT="Non puoi usare i comandi mentre stai combattendo!"
+TIME_LEFT_NUMBER_SECONDS="Tempo rimasto: %NUMBER% secondi"
+
+PVPLOGGER_HAS_TURNED_ON="PVPLogger è acceso!"
+PVPLOGGER_HAS_TURNED_OFF="PVPLogger si è spento!"
+YOU_WILL_DIE_IF_YOU_DISCONNECT_IN="Morirai se ti disconnetti"
+YOU_CAN_NOW_DISCONNECT_SAFELY="Ora puoi disconnetterti in sicurezza."
+
+############################################################### ###
+################### Flusso di power ######################
+YOUR_POWER_HAS_BEEN_DECRESED_BY="La tua power è stata ridotta del %NUMBER%."
+YOUR_POWER_HAS_BEEN_INCREASED_BY="La tua power è stata aumentata del %NUMBER%."
+CURRENT_POWER="power attuale:"
+
+############################################################### ###
+####################### Versione ############################
+VERSION="Versione"
+A_NEW_VERSION_OF="Una nuova versione di"
+# Fazioni d'Aquila
+IS_AVAILABLE="è disponibile!"
+
+############################################################### ###
+############### Comandi Descrizioni ###################
+COMMAND_HELP_DESC="Mostra informazioni su tutti i comandi"
+COMMAND_CREATE_DESC="Crea comando di fazione"
+COMMAND_DISBAND_DESC="Comando Sciogli Fazione"
+COMMAND_LIST_DESC="Elenca tutte le fazioni"
+COMMAND_INVITE_DESC="Invita un giocatore nella fazione"
+COMMAND_KICK_DESC="Calcia un giocatore dalla fazione"
+COMMAND_JOIN_DESC="Unisciti a una fazione specifica"
+COMMAND_LEAVE_DESC="Lascia una fazione"
+COMMAND_VERSION_DESC="Mostra la versione del plugin"
+COMMAND_INFO_DESC="Mostra informazioni sulla fazione"
+COMMAND_PLAYER_DESC="Mostra informazioni su un giocatore"
+COMMAND_TRUCE_DESC="Invita o rimuovi fazione dalla tregua"
+COMMAND_ALLY_DESC="Invita o rimuovi fazione dall'alleanza"
+COMMAND_ENEMY_DESC="Dichiara o rimuovi fazione dalla guerra"
+COMMAND_PROMOTE_DESC="Promuove il giocatore a un grado più alto"
+COMMAND_DEMOTE_DESC="Declassa il giocatore a un grado inferiore"
+COMMAND_LIST_CLAIMS_DESC="Mostra un elenco di rivendicazioni della fazione."
+COMMAND_CLAIM_DESC="Rivendica una terra per la tua fazione"
+COMMAND_SQUARE_CLAIM_DESC="Reclama un terreno a forma di quadrato con un determinato raggio"
+COMMAND_FILL_CLAIM_DESC="Rivendica il maggior numero possibile di claims a partire dalla posizione del giocatore"
+COMMAND_UNCLAIM_DESC="Riscatta una terra catturata dalla tua fazione."
+COMMAND_UNCLAIM_ALL_DESC="Rimuovi tutti i claims"
+COMMAND_MAP_DESC="Attiva/disattiva mappa fazioni"
+COMMAND_SET_HOME_DESC="Imposta la casa della fazione"
+COMMAND_HOME_DESC="Teletrasporta a casa della fazione"
+COMMAND_AUTO_CLAIM_DESC="Comando di rivendicazione automatica"
+COMMAND_AUTO_MAP_DESC="Comando di mappatura automatica"
+COMMAND_ADMIN_DESC="Attiva/disattiva la modalità amministratore"
+COMMAND_COORDS_DESC="Mostra le coordinate dei tuoi compagni di squadra"
+COMMAND_SET_POWER_DESC="Imposta il potere del giocatore"
+COMMAND_SET_MAX_POWER_DESC="Imposta power massima giocatore"
+COMMAND_SET_MAX_POWER_FOR_ALL_DESC="Imposta power massima per tutti i giocatori"
+COMMAND_ATTACK_DESC="Distruggi un claim"
+COMMAND_RELOAD_DESC="Ricarica file di configurazione"
+COMMAND_CHAT_DESC="Comando di chat"
+COMMAND_TOP_DESC="Comando superiore"
+COMMAND_SET_LEADER_DESC="Imposta qualcuno come leader (rimuove come leader se lo sei)"
+COMMAND_PERMS_DESC="Imposta i permessi per i membri della fazione."
+COMMAND_TAG_COLOR_DESC="Cambia il colore del tag della fazione"
+COMMAND_RENAME_DESC="Rinomina fazione"
+COMMAND_TAG_DESC="Cambia tag fazione"
+COMMAND_DESC_DESC="Imposta la descrizione della fazione."
+COMMAND_MOTD_DESC="Imposta il messaggio del giorno della fazione."
+COMMAND_FEATHER_DESC="Genera la mistica piuma d'aquila"
+COMMAND_CHEST_DESC="Apre il chest della fazione"
+COMMAND_PUBLIC_DESC="Imposta la fazione come pubblica o meno"
+COMMAND_DEBUG_DESC="Attiva/disattiva la modalità di debug"
+COMMAND_CREATE_BACKUP_DESC="Crea un backup dei dati di Eagle Factions"
+COMMAND_RESTORE_BACKUP_DESC="Ripristina i dati di Eagle Factions dal file di backup specificato"
+COMMAND_REGEN_DESC="Sciogli una fazione e poi rigenera i claims della fazione"
+COMMAND_ACCESS_PLAYER_DESC="Gestisce l'accesso del giocatore per la rivendicazione corrente."
+COMMAND_ACCESS_FACTION_DESC="Gestisce l'accesso alla fazione per la rivendicazione corrente."
+COMMAND_ACCESS_OWNED_BY_DESC="Mostra quali rivendicazioni sono di proprietà di un determinato giocatore"
+COMMAND_ACCESS_ACCESSIBLE_BY_FACTION_DESC="Mostra quali rivendicazioni sono accessibili per fazione"
+COMMAND_ACCESS_DESC="Gestisce l'accesso interno alla fazione per il claim corrente."
+SET_FACTION_COMMAND="Imposta la fazione del giocatore"
