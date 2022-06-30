@@ -113,7 +113,7 @@ SECONDS="secondi"
 TEAM_COORDS="Coordinate della squadra"
 FACTIONS_HOME="Casa della fazione"
 LEADER="Leader"
-UFFICIALE="Ufficiale"
+OFFICER="Ufficiale"
 MEMBER="Membro"
 RECRUIT="Recluta"
 
@@ -149,7 +149,7 @@ THIS_FACTION_CANNOT_BE_DISBANDED="Questa fazione non può essere sciolta!"
 
 ############################################################### ###
 ######################### Permessi ###########################
-CHI="CHI"
+WHO="CHI"
 USE="USE"
 PLACE="LUOGO"
 DESTROY="DESTROY"
@@ -197,7 +197,7 @@ DESCRIPTION="Descrizione"
 PUBLIC="Pubblico"
 # Messaggio del giorno
 MOTD="Motd"
-UFFICIALI="Ufficiali"
+OFFICERS="Ufficiali"
 TRUCES="Tregua"
 ALLIANCES="Alleanza"
 ENEMIES="Nemico"
