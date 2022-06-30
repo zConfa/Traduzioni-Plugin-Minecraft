@@ -1,213 +1,212 @@
-# Configuration file
+# File di configurazione
 
-##########################################################################################################
+################################################################ ################################################################ ######
 # lang
-#--------------------------------------------------------------------------------------------------------#
-# Language configuration
-##########################################################################################################
+#------------------------------------------------ -------------------------------------------------- -----#
+# Configurazione della lingua
+################################################################ ################################################################ ######
 
 lang {
     
-    S:cantseeleaderboard=&cYou cant see the leaderboard during the event ! 
+    S:cantseeleaderboard=&cNon puoi vedere la classifica durante l'evento!
 
-    S:command.pe.noscore=&cYou dont have point yet !
+    S:command.pe.noscore=&cNon hai ancora punti!
     
-    S:command.pe.score=&aYou have &e{score} &apoint(s).
+    S:command.pe.score=&aHai &e{punteggio} &apunto/i.
     
-    S:event.bossbar=PixelEvent - Time left : {mtimeleft} minute(s) and {stimeleft} second(s)
+    S:event.bossbar=PixelEvent - Tempo rimasto: {mtimeleft} minuto/i e {stimeleft} secondo/i
 
-    S:event.levelreward=&aYou get the reward of the level {level}!
+    S:event.levelreward=&aOttieni la ricompensa del livello {livello}!
 
-    S:event.nomatch=&cYou dont meet the requirements to get a point for this event, check /pe info!
+    S:event.nomatch=&cNon soddisfi i requisiti per ottenere un punto per questo evento, controlla /pe info!
 
-    S:event.nothere=&cYou cant participate to the event in this area !
+    S:event.nothere=&cNon puoi partecipare all'evento in quest'area!
     
-    S:event.success=&aYou win 1 point with PixelEvent ! Do /pe info for more information !
+    S:event.success=&aVinci 1 punto con PixelEvent ! Fare /pe info per maggiori informazioni!
     
-    S:eventstarted=&eAn event has started, /pe info!
+    S:eventstarted=&eUn evento è iniziato, /pe info!
 
-    S:eventstopped=&cThe event has been stopped!
+    S:eventstopped=&cL'evento è stato interrotto!
     
-    S:eventstoppedgoal=&aEvent ended, a player reach the goal!
+    S:eventstoppedgoal=&aEvento terminato, un giocatore raggiunge l'obiettivo!
     
-    S:eventstoppedtime=&aEvent ended, time over!
+    S:eventstoppedtime=&aEvento terminato, tempo scaduto!
 
-    S:prefix=&d[PixelEvent] 
+    S:prefisso=&d[PixelEvent]
 
-    S:wrongcmd=&cWrong command
+    S:wrongcmd=&cComando errato
 }
 
 
-##########################################################################################################
+################################################################ ################################################################ ######
 # langadmin
-#--------------------------------------------------------------------------------------------------------#
-# Language configuration
-##########################################################################################################
+#------------------------------------------------ -------------------------------------------------- -----#
+# Configurazione della lingua
+################################################################ ################################################################ ######
 
 langadmin {
     
-    S:alreadyinblacklist=&cThis claim is already in the blacklist!
+    S:alreadyinblacklist=&cQuesto reclamo è già nella lista nera!
 
-    S:alreadyinlist=&cAlready in the list
+    S:alreadyinlist=&cGià nell'elenco
 
-    S:alreadyinwhitelist=&cThis claim is already in the whitelist!
+    S:alreadyinwhitelist=&cQuesto reclamo è già nella whitelist!
 
-    S:checkwiki=&eCheck the wiki with the following link :
+    S:checkwiki=&eControlla il wiki con il seguente link:
 
-    S:claimaddb=&aClaim added to the blacklist
+    S:claimaddb=&aClaim aggiunto alla lista nera
 
-    S:claimaddw=&aClaim added to the whitelist
+    S:claimaddw=&aClaim aggiunto alla whitelist
 
-    S:claimdelb=&aClaim removed from the blacklist
+    S:claimdelb=&aClaim rimosso dalla lista nera
 
-    S:claimdelw=&aClaim removed from the whitelist
+    S:claimdelw=&aClaim rimosso dalla whitelist
 
-    S:notclaim=&cNot a claim
+    S:notclaim=&cNon è un reclamo
 
-    S:notinlist=&cNot in the list
+    S:notinlist=&cNon nell'elenco
 
-    S:pokemonerror=&cNot a valid pokemon
+    S:pokemonerror=&cPokemon non valido
 
-    S:randomset=&aConfig random set, do /pe info!
+    S:randomset=&aConfig set casuale, fai /pe info!
 
-    S:reload=&aPixelEvent config/lang reloaded!
+    S:reload=&aPixelEvent config/lang ricaricato!
 
-    S:setpokemon=&aPokemon for the event set to &e{choice}
+    S:setpokemon=&aPokemon per l'evento impostato su &e{choice}
 }
 
 
-##########################################################################################################
+################################################################ ################################################################ ######
 # langgui
-#--------------------------------------------------------------------------------------------------------#
-# Language GUI configuration
-##########################################################################################################
+#------------------------------------------------ -------------------------------------------------- -----#
+# Configurazione della GUI della lingua
+################################################################ ################################################################ ######
 
 langgui {
-    S:back=&aBack
+    S:indietro=&aIndietro
 
-    S:ball=&aNo ball restriction
+    S:ball=&aNessuna restrizione sulla palla
 
-    S:ballblacklist=&cBalls not allowed
+    S:ballblacklist=&cBall non consentite
 
     S:ballblacklisted=&eBlacklisted
 
-    S:ballblacklistinfo=&cBall forbidden to use during the event
+    S:ballblacklistinfo=&cBall vietato l'uso durante l'evento
 
     S:ballmenuname=&cConfig Ball
 
-    S:ballnotinconfig=&aNot in the config
+    S:ballnotinconfig=&aNon nella configurazione
 
-    S:ballwhitelist=&cBalls must be used
+    S:ballwhitelist=&cLe palle devono essere usate
 
     S:ballwhitelisted=&eWhitelisted
 
-    S:ballwhitelistinfo=&aBall to use during the event
+    S:ballwhitelistinfo=&aBall da usare durante l'evento
 
-    S:bossbardisable=&cBossbar is DISABLE
+    S:bossbardisable=&cBossbar è DISATTIVATO
 
-    S:bossbarenable=&aBossbar is ENABLE
+    S:bossbarenable=&aBossbar è ABILITATO
 
     S:bossbarname=&aBossbar
 
-    S:cantvalidate=&cCant validate the config. The blacklist and the whitelist size are both greater than 1
+    S:cantvalidate=&cNon posso convalidare la configurazione. Le dimensioni della blacklist e della whitelist sono entrambe maggiori di 1
 
     S:capture=&eCapture
 
-    S:claimallowed=&aClaims are ALLOWED
+    S:claimallowed=&aLe rivendicazioni sono CONSENTITE
 
-    S:claimdenied=&cClaims are DENIED
+    S:claimdenied=&cLe rivendicazioni sono NEGATE
 
-    S:claims=Claims
+    S:reclami=Reclami
 
-    S:clearblacklist=&aClear blacklist claim
+    S:clearblacklist=&aCancella richiesta blacklist
 
-    S:clearwhitelist=&aClear whitelist claim
+    S:clearwhitelist=&aCancella reclamo whitelist
 
-    S:close=&aClose
+    S:chiudi=&aChiudi
 
-    S:closemenu=&aClose
+    S:closemenu=&aChiudi
 
-    S:eventmenuname=&cConfig Event
+    S:eventmenuname=&cConfig Evento
 
-    S:eventnotselected=&cThis event is not selected
+    S:eventnotselected=&cQuesto evento non è selezionato
 
-    S:eventselected=&aThis event is selected
+    S:eventselected=&aQuesto evento è selezionato
 
     S:kill=&eKill
 
-    S:leaderboard=&aLeaderboard during the event
+    S:leaderboard=&aLeaderboard durante l'evento
 
-    S:leaderboardallowed=&aLeaderboard is ALLOWED
+    S:leaderboardallowed=&aLeaderboard è AMMESSO
 
-    S:leaderboarddenied=&cLeaderboard is DENIED
+    S:leaderboarddenied=&cLeaderboard è NEGATA
 
-    S:loreblacklist=&eClick to see it
+    S:loreblacklist=&eFai clic per vederlo
 
-    S:lorepokemonall=&aNo restriction
+    S:lorepokemonall=&aNessuna restrizione
 
-    S:lorepokemonallowed=&6{pokemon} &eonly is allowed!
+    S:lorepokemonallowed=&6{pokemon} &esolo consentito!
 
-    S:othermenuname=&cConfig Other
+    S:othermenuname=&cConfig Altro
 
-    S:pointsgoal=&eFirst player to &6{goal} &epoints before the end of the event
+    S:pointsgoal=&ePrimo giocatore a &6{goal} &epunti prima della fine dell'evento
 
     S:pokemon=&aPokemon
 
-    S:resetconfig=&eReset the config
+    S:resetconfig=&eReimposta la configurazione
 
-    S:resumemenuname=&cInformations
+    S:resumemenuname=&cInformazioni
 
-    S:sizeblacklistclaim=&aActually &6{claimlistsize} &ablacklised claim(s).
+    S:sizeblacklistclaim=&aActually &6{claimlistsize} &un reclamo/i nero/i.
 
-    S:sizewhitelistclaim=&aActually &6{claimlistsize} &awhitelised claim(s).
+    S:sizewhitelistclaim=&aActually &6{claimlistsize} &a reclamo/i autorizzato/i.
 
-    S:time=&6Timer
+    S:tempo=&6Timer
 
-    S:timeractualvalue=&aActual value : &b {minutes} minutes &6Click here to validate!
+    S:timeractualivalue=&aValore effettivo : &b {minuti} minuti &6Fai clic qui per convalidare!
 
-    S:timeremaining=&6Time remaining :
+    S:timeremaining=&6Tempo rimanente :
 
-    S:timergoal=&eGet the best score to be on the leaderboard!
+    S:timergoal=&eOttieni il miglior punteggio per essere in classifica!
 
-    S:timerifnotrun=Time : &b{minutes}
+    S:timerifnotrun=Tempo : &b{minuti}
 
-    S:timerifrun=&b{minutes} minutes and {seconds} seconds.
+    S:timerifrun=&b{minuti} minuti e {secondi} secondi.
 
     S:timermenuname=&cConfig Timer
 
-    S:toggleallowed=&aClick to &cDENY
+    S:toggleallowed=&aFai clic su &cDENY
 
-    S:toggledeny=&cClick to &aALLOW
+    S:toggledeny=&cFai clic su &aALLOW
 
-    S:toggledisable=&cClick to &aENABLE
+    S:toggledisable=&cFai clic su &aABILITA
 
-    S:toggleenable=&aClick to &cDISABLE
+    S:toggleenable=&aFai clic su &cDISABLE
 
-    S:type=&aNo type restriction
+    S:type=&aNessuna restrizione di tipo
 
-    S:typeblacklist=&cTypes not allowed
+    S:typeblacklist=&cTipi non consentiti
 
     S:typeblacklisted=&eBlacklisted
 
-    S:typeblacklistinfo=&cType you cant kill/capture during the event
+    S:typeblacklistinfo=&cDigita che non puoi uccidere/catturare durante l'evento
 
-    S:typemenuname=&cConfig Type
+    S:typemenuname=&cTipo di configurazione
 
-    S:typenotinconfig=&aNot in the config
+    S:typenotinconfig=&aNon nel file config
 
-    S:typewhitelist=&cTypes must be captured/killed
+    S:typewhitelist=&cI tipi devono essere catturati/uccisi
 
     S:typewhitelisted=&eWhitelisted
 
-    S:typewhitelistinfo=&aType you need to kill/capture during the event
+    S:typewhitelistinfo=&aDigita che devi uccidere/catturare durante l'evento
 
-    S:validate=&aValidate
+    S:validate=&aConvalida
 
-    S:wilderness=&aWilderness
+    S:deserto=&adeserto
 
-    S:wildernessallowed=&aWilderness is ALLOWED
+    S:wildernessallowed=&aWilderness è AMMESSO
 
-    S:wildernessdenied=&cWilderness is DENIED
+    S:wildernessdenied=&cWilderness è NEGATO
 }
-
 
