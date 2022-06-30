@@ -1,0 +1,213 @@
+# Configuration file
+
+##########################################################################################################
+# lang
+#--------------------------------------------------------------------------------------------------------#
+# Language configuration
+##########################################################################################################
+
+lang {
+    
+    S:cantseeleaderboard=&cYou cant see the leaderboard during the event ! 
+
+    S:command.pe.noscore=&cYou dont have point yet !
+    
+    S:command.pe.score=&aYou have &e{score} &apoint(s).
+    
+    S:event.bossbar=PixelEvent - Time left : {mtimeleft} minute(s) and {stimeleft} second(s)
+
+    S:event.levelreward=&aYou get the reward of the level {level}!
+
+    S:event.nomatch=&cYou dont meet the requirements to get a point for this event, check /pe info!
+
+    S:event.nothere=&cYou cant participate to the event in this area !
+    
+    S:event.success=&aYou win 1 point with PixelEvent ! Do /pe info for more information !
+    
+    S:eventstarted=&eAn event has started, /pe info!
+
+    S:eventstopped=&cThe event has been stopped!
+    
+    S:eventstoppedgoal=&aEvent ended, a player reach the goal!
+    
+    S:eventstoppedtime=&aEvent ended, time over!
+
+    S:prefix=&d[PixelEvent] 
+
+    S:wrongcmd=&cWrong command
+}
+
+
+##########################################################################################################
+# langadmin
+#--------------------------------------------------------------------------------------------------------#
+# Language configuration
+##########################################################################################################
+
+langadmin {
+    
+    S:alreadyinblacklist=&cThis claim is already in the blacklist!
+
+    S:alreadyinlist=&cAlready in the list
+
+    S:alreadyinwhitelist=&cThis claim is already in the whitelist!
+
+    S:checkwiki=&eCheck the wiki with the following link :
+
+    S:claimaddb=&aClaim added to the blacklist
+
+    S:claimaddw=&aClaim added to the whitelist
+
+    S:claimdelb=&aClaim removed from the blacklist
+
+    S:claimdelw=&aClaim removed from the whitelist
+
+    S:notclaim=&cNot a claim
+
+    S:notinlist=&cNot in the list
+
+    S:pokemonerror=&cNot a valid pokemon
+
+    S:randomset=&aConfig random set, do /pe info!
+
+    S:reload=&aPixelEvent config/lang reloaded!
+
+    S:setpokemon=&aPokemon for the event set to &e{choice}
+}
+
+
+##########################################################################################################
+# langgui
+#--------------------------------------------------------------------------------------------------------#
+# Language GUI configuration
+##########################################################################################################
+
+langgui {
+    S:back=&aBack
+
+    S:ball=&aNo ball restriction
+
+    S:ballblacklist=&cBalls not allowed
+
+    S:ballblacklisted=&eBlacklisted
+
+    S:ballblacklistinfo=&cBall forbidden to use during the event
+
+    S:ballmenuname=&cConfig Ball
+
+    S:ballnotinconfig=&aNot in the config
+
+    S:ballwhitelist=&cBalls must be used
+
+    S:ballwhitelisted=&eWhitelisted
+
+    S:ballwhitelistinfo=&aBall to use during the event
+
+    S:bossbardisable=&cBossbar is DISABLE
+
+    S:bossbarenable=&aBossbar is ENABLE
+
+    S:bossbarname=&aBossbar
+
+    S:cantvalidate=&cCant validate the config. The blacklist and the whitelist size are both greater than 1
+
+    S:capture=&eCapture
+
+    S:claimallowed=&aClaims are ALLOWED
+
+    S:claimdenied=&cClaims are DENIED
+
+    S:claims=Claims
+
+    S:clearblacklist=&aClear blacklist claim
+
+    S:clearwhitelist=&aClear whitelist claim
+
+    S:close=&aClose
+
+    S:closemenu=&aClose
+
+    S:eventmenuname=&cConfig Event
+
+    S:eventnotselected=&cThis event is not selected
+
+    S:eventselected=&aThis event is selected
+
+    S:kill=&eKill
+
+    S:leaderboard=&aLeaderboard during the event
+
+    S:leaderboardallowed=&aLeaderboard is ALLOWED
+
+    S:leaderboarddenied=&cLeaderboard is DENIED
+
+    S:loreblacklist=&eClick to see it
+
+    S:lorepokemonall=&aNo restriction
+
+    S:lorepokemonallowed=&6{pokemon} &eonly is allowed!
+
+    S:othermenuname=&cConfig Other
+
+    S:pointsgoal=&eFirst player to &6{goal} &epoints before the end of the event
+
+    S:pokemon=&aPokemon
+
+    S:resetconfig=&eReset the config
+
+    S:resumemenuname=&cInformations
+
+    S:sizeblacklistclaim=&aActually &6{claimlistsize} &ablacklised claim(s).
+
+    S:sizewhitelistclaim=&aActually &6{claimlistsize} &awhitelised claim(s).
+
+    S:time=&6Timer
+
+    S:timeractualvalue=&aActual value : &b {minutes} minutes &6Click here to validate!
+
+    S:timeremaining=&6Time remaining :
+
+    S:timergoal=&eGet the best score to be on the leaderboard!
+
+    S:timerifnotrun=Time : &b{minutes}
+
+    S:timerifrun=&b{minutes} minutes and {seconds} seconds.
+
+    S:timermenuname=&cConfig Timer
+
+    S:toggleallowed=&aClick to &cDENY
+
+    S:toggledeny=&cClick to &aALLOW
+
+    S:toggledisable=&cClick to &aENABLE
+
+    S:toggleenable=&aClick to &cDISABLE
+
+    S:type=&aNo type restriction
+
+    S:typeblacklist=&cTypes not allowed
+
+    S:typeblacklisted=&eBlacklisted
+
+    S:typeblacklistinfo=&cType you cant kill/capture during the event
+
+    S:typemenuname=&cConfig Type
+
+    S:typenotinconfig=&aNot in the config
+
+    S:typewhitelist=&cTypes must be captured/killed
+
+    S:typewhitelisted=&eWhitelisted
+
+    S:typewhitelistinfo=&aType you need to kill/capture during the event
+
+    S:validate=&aValidate
+
+    S:wilderness=&aWilderness
+
+    S:wildernessallowed=&aWilderness is ALLOWED
+
+    S:wildernessdenied=&cWilderness is DENIED
+}
+
+
